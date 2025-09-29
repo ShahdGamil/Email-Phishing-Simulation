@@ -52,7 +52,3 @@ This project demonstrates a controlled phishing simulation executed in a safe, i
 - `logs/` — Redacted simulation logs and anonymized telemetry for review.  
 - `slides/` — Presentation slides summarizing methodology and findings.  
 - `LAB_GUIDELINES.md` — Safe lab setup and authorization process (restricted).
-
-
----
-**Disclaimer:** This project is for educational and defensive purposes only. Any attempt to replicate phishing techniques outside an authorized lab is illegal and unethical.
